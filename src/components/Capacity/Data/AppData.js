@@ -21,25 +21,29 @@ export const AppData = [
         Name:"Inshara Iqbal",
         field: "Software Engineering ",
         batch: "Batch 2021",
-        images:inshara
+        images:inshara,
+        link:""
      },
      {
         Name:"Abdul Kabir ",
         field: "Computer info. System ",
         batch: "Batch 2022 ",
-        images:imgAK
+        images:imgAK,
+        link:""
      },
      {
         Name:"Taimoor Habib ",
         field: "Computer info. System",
         batch: "Batch 2022",
-        images:imgTH
+        images:imgTH,
+        link:""
      },
      {
       Name:"Muhammad Ali Khan ",
       field: "Computer Science & IT",
       batch: "Batch 2022",
-      images:MDali
+      images:MDali,
+      link:""
    }
      
 

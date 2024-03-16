@@ -3,6 +3,7 @@ import React from "react";
 import { Data } from "./PublicData";
 
 import  { useState, useEffect } from "react";
+import { Link } from "react-router-dom";
 
 const PublicView = () => {
   
@@ -61,7 +62,7 @@ const PublicView = () => {
               </td>
               <td className="px-6 py-4 text-lg text-black">
               <a href="#" className="ml-5 h-2 underline">
-                  View
+                <Link to={item.link}> View</Link>   
                 </a>
               </td>
 

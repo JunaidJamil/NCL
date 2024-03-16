@@ -26,96 +26,112 @@ export const DLearns =[
         Name:"Syed Hasnain Ali Naqvi",
         field: "Computer science & IT",
         batch: "Batch 2022",
-        images:HN
+        images:HN,
+        link: ""
      },
      {
         Name:"Syed Azlan Asim",
         field: "BS Sotware Engineering",
         batch: "Batch 2021",
-        images:az
+        images:az,
+        link: ""
      },
      {
         Name:"Khola Bint E Suleman",
         field: "Computer Info. System",
         batch: "Batch 2021",
-        images:kh
+        images:kh,
+        link: ""
      },
      {
         Name:"Syeda Maria",
         field: "Computer Info. System",
         batch: "Batch 2021",
-        images:mar
+        images:mar,
+        link: ""
      },
      {
         Name:"Muhammad Shazil Khan",
         field: "Computer science & IT",
         batch: "Batch 2022",
-        images:shaz
+        images:shaz,
+        link: ""
      },
      {
         Name:"Zoha Fatima",
         field: "Computer Info. System",
         batch: "Batch 2020",
+        link: ""
         
      },
      {
         Name:"Ayesha Iman",
         field: "BS Sotware Engineering",
         batch: "Batch 2021",
-        images:ayesha
+        images:ayesha,
+        link: ""
      },
      {
         Name:"Hammad Jamal",
         field: "Computer Info. System",
         batch: "Batch 2021",
-        images:Hammad
+        images:Hammad,
+        link: ""
      },
      {
         Name:"Fatima Ejaz",
         field: "Computer Info. System",
         batch: "Batch 2021",
-        images:fatima
+        images:fatima,
+        link: ""
      },
      {
         Name:"Shumaila Zafar",
         field: "Computer Info. System",
         batch: "Batch 2021",
-        images:shumaila
+        images:shumaila,
+        link: ""
      },
      {
         Name:"Alishba Rizwan",
         field: "Computer Info. System",
         batch: "Batch 2021",
-        images:alishba
+        images:alishba,
+        link: ""
      },
      {
         Name:"Maha Khan",
         field: "Computer Info. System",
         batch: "Batch 2021",
-        images:maha
+        images:maha,
+        link: ""
      },
      {
         Name:"Hareem Sadiq",
         field: "Electronic Engineering",
         batch: "Batch 2020",
-        images:Hareem
+        images:Hareem,
+        link: ""
      },
      {
         Name:"Nabiha Waseem",
         field: "Software Engineering",
         batch: "Batch 2021",
-        images:nabiha
+        images:nabiha,
+        link: ""
      },
      {
         Name:"Syeda Moneebah Noman",
         field: "Software Engineering",
         batch: "Batch 2021",
-        images:muneeba
+        images:muneeba,
+        link: ""
      },
      {
         Name:"Narmeen Shahbaz",
         field: "Computer Info. System",
-        batch: "Batch 2022"
+        batch: "Batch 2022",
+        link: ""
      },
 
   

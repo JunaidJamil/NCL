@@ -15,43 +15,50 @@ export const ScienceData = [
         Name:"Onaiza",
         field: "Computer Science & IT",
         batch: "Batch 2021",
-        images:Onaiza
+        images:Onaiza,
+        link: ""
      },
      {
         Name:"Hareem Fatima",
         field: "Computer Science & IT",
         batch: "Batch 2021",
-        images:hareemFatima
+        images:hareemFatima,
+        link: ""
      },
      {
         Name:"Alishba Khawar",
         field: "Computer Science & IT",
         batch: "Batch 2021",
-        images:alishbaKhawar
+        images:alishbaKhawar,
+        link: ""
      },
      {
         Name:" Muqaddas Ali ",
         field: "Computer Science & IT ",
         batch: "Batch 2021",
-        images:muqaddas
+        images:muqaddas,
+        link: ""
      },
      {
         Name:"Laiba Shakil ",
         field: "Computer Science & IT ",
         batch: "Batch 2021",
-        images:laibaShakeel
+        images:laibaShakeel,
+        link: ""
      },
      {
         Name:"Hafsa Habib",
         field: "Computer Info. System",
         batch: "Batch 2021",
-        images:hafsa
+        images:hafsa,
+        link: ""
      },
      {
         Name:"Anshara Ayaz ",
         field: "Computer Info. System ",
         batch: "Batch 2021",
-        images:anshara
+        images:anshara,
+        link: ""
      },
      
 ]
